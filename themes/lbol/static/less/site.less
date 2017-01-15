@@ -1,0 +1,30 @@
+@import "../../../../bower_components/bootstrap/less/bootstrap.less";
+@import "../../../../bower_components/font-awesome/less/font-awesome.less";
+@import "site_variables.less"; //customizations
+
+body {
+  padding-top: 70px;
+  background-color: #f1f0ff;
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: @headingsFontFamily;
+  color: @headingsColor;
+}
+a {
+  color: @linkColor;
+}
+
+.navbar-custom {
+    color: #FFFFFF;
+    background-color: @navbarBackground;
+}
+
+.navbar-custom .navbar-nav > li > a {
+ color: @navbarLinkColor; /*Change active text color here*/
+  }
+
+.navbar-brand a {
+color: @navbarLinkColor; /*Change active text color here*/
+ }

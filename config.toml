@@ -1,3 +1,23 @@
+theme = "lbol"
 languageCode = "en-us"
-title = "My New Hugo Site"
-baseurl = "http://example.org/"
+title = "Little Bit O' Lindy"
+baseurl = "/"
+GoogleAnalytics = "UA-9713393-1"
+buildDrafts = false
+
+[permalinks]
+	page = "/:filename/"
+	about = "/:filename/"
+	post = "/:filename/"
+
+[params]
+  Facebook = "//www.facebook.com/lindy.greer"
+  GATracker = "UA-45939822-1"
+  Twitter = "//www.twitter.com/makeupartist524"
+  Description = "Arrested DevOps is hosted by Matt Stratton, Trevor Hess, and Bridget Kromhout. ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness."
+  	[params.social]
+  		facebook = "lindy.greer"
+  		twitter = "makeupartist524"
+  		twitter_domain = "littlebitolindy.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+  		googleplus = "ArrestedDevOps"
+  		pinterest = "makeupartist524"
