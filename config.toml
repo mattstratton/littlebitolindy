@@ -1,7 +1,8 @@
-theme = "lbol"
+theme = "lbl-theme"
 languageCode = "en-us"
 title = "Little Bit O' Lindy"
 baseurl = "/"
+themesdir = "../.."
 GoogleAnalytics = "UA-9713393-1"
 buildDrafts = false
 
@@ -14,7 +15,7 @@ buildDrafts = false
   Facebook = "//www.facebook.com/lindy.greer"
   GATracker = "UA-45939822-1"
   Twitter = "//www.twitter.com/makeupartist524"
-  Description = "Arrested DevOps is hosted by Matt Stratton, Trevor Hess, and Bridget Kromhout. ADO is the podcast that helps you achieve understanding, develop good practices, and operate your team and organization for maximum DevOps awesomeness."
+  Description = "someting about lindy"
   	[params.social]
   		facebook = "lindy.greer"
   		twitter = "makeupartist524"

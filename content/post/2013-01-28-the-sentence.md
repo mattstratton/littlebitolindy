@@ -64,4 +64,4 @@ P.S. I was told that I had to attach pictures to my posts, but since I refuse to
 
 &nbsp;<figure id="attachment_1041" class="thumbnail wp-caption alignnone" style="width: 540px">
 
-<img class="size-full wp-image-1041" alt="Look at that pointy tail!!  I love kittehs!!!" src="/wp-content/uploads/kitteh.jpg" width="540" height="720" srcset="/wp-contentuploads/kitteh.jpg 540w, /wp-contentuploads/kitteh-225x300.jpg 225w" sizes="(max-width: 540px) 100vw, 540px" /><figcaption class="caption wp-caption-text">Look at that pointy tail!! I love kittehs!!!</figcaption></figure>
+<img class="size-full wp-image-1041" alt="Look at that pointy tail!!  I love kittehs!!!" src="/wp-content/uploads/kitteh.jpg" width="540" height="720" srcset="/wp-content/uploads/kitteh.jpg 540w, /wp-content/uploads/kitteh-225x300.jpg 225w" sizes="(max-width: 540px) 100vw, 540px" /><figcaption class="caption wp-caption-text">Look at that pointy tail!! I love kittehs!!!</figcaption></figure>

@@ -36,7 +36,7 @@ My mom and dad both call me Stinky.  This is the worst one that I NEVER share w
 
 And one of my favorite nicknames came from my grandparents.  They called me Little Bit.  And yes, this is also why I named the blog the way I did.  I wish my grandparents were still around.  They died 10 years and 10 days apart and were married for 65 years.<figure id="attachment_1010" class="thumbnail wp-caption alignnone" style="width: 225px">
 
-<img class="size-medium wp-image-1010" alt="grandparents" src="/wp-content/uploads/grandparents1-225x300.jpg" width="225" height="300" srcset="/wp-contentuploads/grandparents1-225x300.jpg 225w, /wp-contentuploads/grandparents1-768x1024.jpg 768w, /wp-contentuploads/grandparents1.jpg 1224w" sizes="(max-width: 225px) 100vw, 225px" /><figcaption class="caption wp-caption-text">George Truett Greer and the fiesty Helen Greer. I love this picture of them so much. And I miss them every day.</figcaption></figure> 
+<img class="size-medium wp-image-1010" alt="grandparents" src="/wp-content/uploads/grandparents1-225x300.jpg" width="225" height="300" srcset="/wp-content/uploads/grandparents1-225x300.jpg 225w, /wp-content/uploads/grandparents1-768x1024.jpg 768w, /wp-content/uploads/grandparents1.jpg 1224w" sizes="(max-width: 225px) 100vw, 225px" /><figcaption class="caption wp-caption-text">George Truett Greer and the fiesty Helen Greer. I love this picture of them so much. And I miss them every day.</figcaption></figure> 
 
 &nbsp;
 
@@ -48,6 +48,6 @@ Well played, Sarah Long.  Well played.
 
 &nbsp;<figure id="attachment_1011" class="thumbnail wp-caption alignnone" style="width: 225px">
 
-<img class="size-medium wp-image-1011" alt="Yes, that says Lindy.  A few friends of mine said it looked like Andy.  ugh." src="/wp-content/uploads/necklace-225x300.jpg" width="225" height="300" srcset="/wp-contentuploads/necklace-225x300.jpg 225w, /wp-contentuploads/necklace.jpg 480w" sizes="(max-width: 225px) 100vw, 225px" /><figcaption class="caption wp-caption-text">Yes, that says Lindy. A few friends of mine said it looked like Andy. ugh.</figcaption></figure> 
+<img class="size-medium wp-image-1011" alt="Yes, that says Lindy.  A few friends of mine said it looked like Andy.  ugh." src="/wp-content/uploads/necklace-225x300.jpg" width="225" height="300" srcset="/wp-content/uploads/necklace-225x300.jpg 225w, /wp-content/uploads/necklace.jpg 480w" sizes="(max-width: 225px) 100vw, 225px" /><figcaption class="caption wp-caption-text">Yes, that says Lindy. A few friends of mine said it looked like Andy. ugh.</figcaption></figure> 
 
 &nbsp;

@@ -32,7 +32,7 @@ And then I have a TON of dance friends on Facebook.  Admittedly, there are prob
 
 &nbsp;<figure id="attachment_1071" class="thumbnail wp-caption alignnone" style="width: 640px">
 
-<img class="size-full wp-image-1071" alt="Facebook find #12,649.  " src="/wp-content/uploads/2013-01-30-07.55.32.png" width="640" height="960" srcset="/wp-contentuploads/2013-01-30-07.55.32.png 640w, /wp-contentuploads/2013-01-30-07.55.32-200x300.png 200w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="caption wp-caption-text">Facebook find #12,649.</figcaption></figure> 
+<img class="size-full wp-image-1071" alt="Facebook find #12,649.  " src="/wp-content/uploads/2013-01-30-07.55.32.png" width="640" height="960" srcset="/wp-content/uploads/2013-01-30-07.55.32.png 640w, /wp-content/uploads/2013-01-30-07.55.32-200x300.png 200w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="caption wp-caption-text">Facebook find #12,649.</figcaption></figure> 
 
 &nbsp;
 
@@ -48,7 +48,7 @@ I also spent a week or so following A LOT of paleo people.  If you don&#8217;t 
 
 &nbsp;<figure id="attachment_1072" class="thumbnail wp-caption alignnone" style="width: 640px">
 
-<img class="size-full wp-image-1072" alt="Paleo!  No grains, dairy, legumes, alcohol, or sugar.  Also known as, the no fun diet.  " src="/wp-content/uploads/2013-02-08-15.46.53.png" width="640" height="960" srcset="/wp-contentuploads/2013-02-08-15.46.53.png 640w, /wp-contentuploads/2013-02-08-15.46.53-200x300.png 200w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="caption wp-caption-text">Paleo! No grains, dairy, legumes, alcohol, or sugar. Also known as, the no fun diet.</figcaption></figure> 
+<img class="size-full wp-image-1072" alt="Paleo!  No grains, dairy, legumes, alcohol, or sugar.  Also known as, the no fun diet.  " src="/wp-content/uploads/2013-02-08-15.46.53.png" width="640" height="960" srcset="/wp-content/uploads/2013-02-08-15.46.53.png 640w, /wp-content/uploads/2013-02-08-15.46.53-200x300.png 200w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="caption wp-caption-text">Paleo! No grains, dairy, legumes, alcohol, or sugar. Also known as, the no fun diet.</figcaption></figure> 
 
 &nbsp;
 
@@ -64,7 +64,7 @@ I think that one day I&#8217;ll cover both of my arms in full sleeves of tattoos
 
 &nbsp;<figure id="attachment_1069" class="thumbnail wp-caption alignnone" style="width: 640px">
 
-<img class="size-full wp-image-1069" alt="Can you believe this is a tattoo??  45 hours to complete!  I have no idea how much Nikko Hurtado charges, but he's worth every penny." src="/wp-content/uploads/2013-01-18-16.53.11.png" width="640" height="960" srcset="/wp-contentuploads/2013-01-18-16.53.11.png 640w, /wp-contentuploads/2013-01-18-16.53.11-200x300.png 200w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="caption wp-caption-text">Can you believe this is a tattoo?? 45 hours to complete! I have no idea how much Nikko Hurtado charges, but he&#8217;s worth every penny.</figcaption></figure> 
+<img class="size-full wp-image-1069" alt="Can you believe this is a tattoo??  45 hours to complete!  I have no idea how much Nikko Hurtado charges, but he's worth every penny." src="/wp-content/uploads/2013-01-18-16.53.11.png" width="640" height="960" srcset="/wp-content/uploads/2013-01-18-16.53.11.png 640w, /wp-content/uploads/2013-01-18-16.53.11-200x300.png 200w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="caption wp-caption-text">Can you believe this is a tattoo?? 45 hours to complete! I have no idea how much Nikko Hurtado charges, but he&#8217;s worth every penny.</figcaption></figure> 
 
 &nbsp;
 
@@ -72,7 +72,7 @@ And then there are a few other miscellaneous social networking sites that I&#821
 
 &nbsp;<figure id="attachment_1070" class="thumbnail wp-caption alignnone" style="width: 640px">
 
-<img class="size-full wp-image-1070" alt="This is probably the only time I've liked Jessica Simpson.  Totally makes me wanna chop my hair off again.  Thank you, Pinterest!" src="/wp-content/uploads/2013-02-25-08.27.45.png" width="640" height="960" srcset="/wp-contentuploads/2013-02-25-08.27.45.png 640w, /wp-contentuploads/2013-02-25-08.27.45-200x300.png 200w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="caption wp-caption-text">This is probably the only time I&#8217;ve liked Jessica Simpson. Totally makes me wanna chop my hair off again. Thank you, Pinterest!</figcaption></figure> 
+<img class="size-full wp-image-1070" alt="This is probably the only time I've liked Jessica Simpson.  Totally makes me wanna chop my hair off again.  Thank you, Pinterest!" src="/wp-content/uploads/2013-02-25-08.27.45.png" width="640" height="960" srcset="/wp-content/uploads/2013-02-25-08.27.45.png 640w, /wp-content/uploads/2013-02-25-08.27.45-200x300.png 200w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="caption wp-caption-text">This is probably the only time I&#8217;ve liked Jessica Simpson. Totally makes me wanna chop my hair off again. Thank you, Pinterest!</figcaption></figure> 
 
 &nbsp;
 
@@ -86,7 +86,7 @@ I&#8217;m also on LinkedIn, but that doesn&#8217;t really count, right?  It&#82
 
 &nbsp;<figure id="attachment_1073" class="thumbnail wp-caption alignnone" style="width: 640px">
 
-<img class="size-full wp-image-1073" alt="Uh huh.  Sure." src="/wp-content/uploads/2013-02-12-09.18.58.png" width="640" height="960" srcset="/wp-contentuploads/2013-02-12-09.18.58.png 640w, /wp-contentuploads/2013-02-12-09.18.58-200x300.png 200w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="caption wp-caption-text">Uh huh. Sure.</figcaption></figure> 
+<img class="size-full wp-image-1073" alt="Uh huh.  Sure." src="/wp-content/uploads/2013-02-12-09.18.58.png" width="640" height="960" srcset="/wp-content/uploads/2013-02-12-09.18.58.png 640w, /wp-content/uploads/2013-02-12-09.18.58-200x300.png 200w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption class="caption wp-caption-text">Uh huh. Sure.</figcaption></figure> 
 
 &nbsp;
 

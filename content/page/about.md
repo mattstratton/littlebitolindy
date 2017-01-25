@@ -5,7 +5,7 @@ type: page
 date: 2013-01-02T23:20:08+00:00
 
 ---
-<img class="aligncenter size-full wp-image-962" alt="Lindy-About-Banner" src="/wp-content/uploads/Lindy-About-Banner.png" width="750" height="290" srcset="/wp-contentuploads/Lindy-About-Banner.png 750w, /wp-contentuploads/Lindy-About-Banner-300x116.png 300w" sizes="(max-width: 750px) 100vw, 750px" />
+<img class="aligncenter size-full wp-image-962" alt="Lindy-About-Banner" src="/wp-content/uploads/Lindy-About-Banner.png" width="750" height="290" srcset="/wp-content/uploads/Lindy-About-Banner.png 750w, /wp-content/uploads/Lindy-About-Banner-300x116.png 300w" sizes="(max-width: 750px) 100vw, 750px" />
 
 # All about Lindy
 
@@ -20,13 +20,13 @@ This blog is where I blog about anything I see fit. I plan on doing a lot of exp
 You can send me your thoughts and feedback by either clicking the &#8220;Feedback&#8221; button on the left side of this site, or click &#8220;Contact&#8221; in the top menu. Or try one of these:
 
 Email: lindy [at] littlebitolindy.com
-  
+
 Twitter: <a href="http://twitter.com/makeupartist524" target="_blank">@makeupartist524</a>
-  
+
 Facebook: <a href="http://facebook.com/lindy.greer" target="_blank">facebook.com/lindy.greer</a>
-  
+
 Google+: <a href="https://plus.google.com/110939803928882295557" target="_blank">https://plus.google.com/110939803928882295557</a>
-  
+
 Pinterest: <a href="http://pinterest.com/makeupartist524/" target="_blank">http://pinterest.com/makeupartist524/</a>
 
 ## Tech stuff

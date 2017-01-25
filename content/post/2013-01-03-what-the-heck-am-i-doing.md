@@ -20,7 +20,7 @@ So what the heck am I going to write about?  Well, I just figured this would be
 
 &nbsp;<figure id="attachment_1015" class="thumbnail wp-caption alignnone" style="width: 300px">
 
-<img class="size-medium wp-image-1015" alt="Hi! I'm Lindy. I share too much and I like having purple in my hair.  I also take pictures of myself in my car." src="/wp-content/uploads/me1-300x300.jpg" width="300" height="300" srcset="/wp-contentuploads/me1-300x300.jpg 300w, /wp-contentuploads/me1-150x150.jpg 150w, /wp-contentuploads/me1.jpg 612w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="caption wp-caption-text">Hi! I&#8217;m Lindy. I share too much and I like having purple in my hair. I also take pictures of myself in my car.</figcaption></figure> 
+<img class="img-fluid" alt="Hi! I'm Lindy. I share too much and I like having purple in my hair.  I also take pictures of myself in my car." src="/wp-content/uploads/me1-300x300.jpg" width="300" height="300" srcset="/wp-content/uploads/me1-300x300.jpg 300w, /wp-content/uploads/me1-150x150.jpg 150w, /wp-content/uploads/me1.jpg 612w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="caption wp-caption-text">Hi! I&#8217;m Lindy. I share too much and I like having purple in my hair. I also take pictures of myself in my car.</figcaption></figure> 
 
 &nbsp;
 

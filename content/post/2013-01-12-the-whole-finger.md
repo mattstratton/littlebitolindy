@@ -38,7 +38,7 @@ The crazy part is that my mom thought it would be funny to flip me off, too, but
 
 &nbsp;<figure id="attachment_1026" class="thumbnail wp-caption alignnone" style="width: 199px">
 
-<img class="size-medium wp-image-1026" alt="This is not my finest picture, and I don't even want to speak about this night, BUT at least I know how to properly flip someone off.  " src="/wp-content/uploads/flipping-off-199x300.jpg" width="199" height="300" srcset="/wp-contentuploads/flipping-off-199x300.jpg 199w, /wp-contentuploads/flipping-off.jpg 402w" sizes="(max-width: 199px) 100vw, 199px" /><figcaption class="caption wp-caption-text">This is not my finest picture, and I don&#8217;t even want to speak about this night, BUT at least I know how to properly flip someone off.</figcaption></figure> 
+<img class="size-medium wp-image-1026" alt="This is not my finest picture, and I don't even want to speak about this night, BUT at least I know how to properly flip someone off.  " src="/wp-content/uploads/flipping-off-199x300.jpg" width="199" height="300" srcset="/wp-content/uploads/flipping-off-199x300.jpg 199w, /wp-content/uploads/flipping-off.jpg 402w" sizes="(max-width: 199px) 100vw, 199px" /><figcaption class="caption wp-caption-text">This is not my finest picture, and I don&#8217;t even want to speak about this night, BUT at least I know how to properly flip someone off.</figcaption></figure> 
 
 &nbsp;
 
