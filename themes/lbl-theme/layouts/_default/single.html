@@ -1,0 +1,28 @@
+{{ define "title" }}{{ .Title | markdownify }} | {{ .Site.Title }}{{ end }}
+{{ define "main" }}
+{{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
+
+<article class="blog-post">
+  <header>
+    <h2 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
+    <p class="blog-post-meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time></p>
+  </header>
+  {{ .Content }}
+
+  {{ if or (not .Site.Params.sharingicons.hide) (.Site.DisqusShortname) }}
+  <hr>
+  <footer>
+
+  {{ if not .Site.Params.sharingicons.hide }}
+  {{ partial "sharing-icons.html" . }}
+  {{ end }}
+
+  {{ if and (.Site.DisqusShortname) (ne .Params.comments false) }}
+  {{ partial "disqus.html" . }}
+  {{ end }}
+  </footer>
+  {{ end }}
+
+</article> <!-- /.blog-post -->
+
+{{ end }}

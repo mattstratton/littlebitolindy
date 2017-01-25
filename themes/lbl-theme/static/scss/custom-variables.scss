@@ -1,0 +1,13 @@
+$link-color:             #443266;
+$link-hover-color:        darken($link-color, 15%);
+$headingsFontFamily:    'Dancing Script', cursive; // empty to use BS default, $baseFontFamily
+$headingsColor:         #8C489F; // empty to use BS default, $textColor
+$btnPrimaryBackground:              $link-color;
+$btnPrimaryBackgroundHighlight:     spin($btnPrimaryBackground, 20%);
+$navbarBackgroundHighlight:       #C3C3E5;
+$navbarBackground:                darken($navbarBackgroundHighlight, 5%);
+$navbarBorder:                    darken($navbarBackground, 12%);
+$navbarLinkColor:                 #443266;
+$navbarLinkBackgroundActive:      darken($navbarBackground, 5%);
+
+$navbarBrandColor:                $navbarLinkColor;

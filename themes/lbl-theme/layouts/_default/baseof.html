@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    {{- partial "head.html" . -}}
+</head>
+
+<body lang="{{ .Site.Params.Lang }}">
+    {{- partial "navigation.html" . -}}
+  <div class="container">
+
+        <div class="row">
+            <div class="col-md-12">
+                <!-- Main Content -->
+                {{- block "main" . }} {{- end -}}
+            </div>
+        </div>
+    </div>
+    <nav class="navbar fixed-bottom navbar-light bg-faded">
+      <a class="navbar-brand" href="#">&copy; 2017 Little Bit O' Lindy</a>
+    </nav>
+    {{- partial "footer_scripts.html" . -}}
+</body>
+
+</html>
