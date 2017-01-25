@@ -2,7 +2,6 @@ theme = "lbl-theme"
 languageCode = "en-us"
 title = "Little Bit O' Lindy"
 baseurl = "/"
-themesdir = "../.."
 GoogleAnalytics = "UA-9713393-1"
 buildDrafts = false
 
